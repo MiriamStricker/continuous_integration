@@ -1,3 +1,5 @@
+[![Python package](https://github.com/MiriamStricker/continuous_integration/actions/workflows/unit-test.yml/badge.svg)](https://github.com/MiriamStricker/continuous_integration/actions/workflows/unit-test.yml)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
